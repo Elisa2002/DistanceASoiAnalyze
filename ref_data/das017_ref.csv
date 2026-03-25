@@ -1,0 +1,73 @@
+﻿Word,Avatar,Category,Answer,ReactionTime
+frivole,un robot,neutre,False,0
+créatif,un robot,positif,False,0.8215027
+heureux,un robot,positif,True,1.310188
+inoffensif,un robot,neutre,True,1.121437
+ignorant,un robot,negatif,False,7.540543
+masculin,un robot,neutre,True,1.300323
+envieux ,un robot,negatif,False,1.465942
+inadapté,un robot,negatif,False,1.477783
+imprévisible,un robot,neutre,False,1.343704
+distingué,un robot,positif,False,1.355423
+froid,un robot,negatif,False,2.121841
+digne,un robot,positif,True,2.05452
+sophistiqué,un robot,neutre,True,1.844025
+immoral,un robot,negatif,False,1.64325
+honnête ,un robot,positif,True,1.921921
+grossier,un robot,negatif,False,1.709244
+gentil,un robot,positif,True,1.299454
+obéissant,un robot,neutre,True,2.565201
+grincheux,quelqu'un d'autre,negatif,True,1.532532
+faible,quelqu'un d'autre,negatif,False,1.000183
+fier,quelqu'un d'autre,neutre,True,0.6380615
+exigeant,quelqu'un d'autre,positif,False,1.832489
+simple,quelqu'un d'autre,neutre,True,1.921082
+hypocrite,quelqu'un d'autre,negatif,False,1.766602
+hautain,quelqu'un d'autre,negatif,False,4.464569
+efficace,quelqu'un d'autre,positif,False,1.998993
+généreux,quelqu'un d'autre,positif,False,2.599274
+frustré,quelqu'un d'autre,negatif,True,1.954712
+courageux,quelqu'un d'autre,positif,False,2.720581
+futé,quelqu'un d'autre,positif,False,4.075317
+impulsif,quelqu'un d'autre,negatif,False,1.310699
+enfantin,quelqu'un d'autre,neutre,False,1.166229
+objectif,quelqu'un d'autre,neutre,True,1.686188
+innocent,quelqu'un d'autre,neutre,True,1.854797
+opportuniste,quelqu'un d'autre,neutre,False,1.188629
+habile,quelqu'un d'autre,positif,False,1.532806
+hospitalier,votre ami,neutre,False,2.265167
+idiot,votre ami,negatif,False,1.509644
+fatiguant,votre ami,negatif,False,1.032776
+solennel,votre ami,neutre,False,1.466492
+humble,votre ami,neutre,True,1.454712
+hardi,votre ami,neutre,False,1.265991
+cultivé,votre ami,positif,False,2.021057
+énergique,votre ami,positif,True,2.410461
+hésitant,votre ami,negatif,True,1.799072
+extravagant,votre ami,neutre,False,2.121338
+déterminé,votre ami,positif,False,2.89856
+exclusif,votre ami,neutre,True,4.075684
+inamical,votre ami,negatif,False,2.054749
+fiable,votre ami,positif,True,1.644226
+immature,votre ami,negatif,False,2.042603
+coopératif,votre ami,positif,False,1.887512
+franc,votre ami,positif,True,1.389099
+incompétent,votre ami,negatif,False,1.621094
+inculte,vous-même,negatif,False,1.044983
+fourbe,vous-même,negatif,False,1.177429
+grognon,vous-même,negatif,False,1.266174
+élégant,vous-même,positif,False,1.143799
+impoli,vous-même,negatif,False,1.843384
+patriotique,vous-même,neutre,False,1.688171
+drôle,vous-même,positif,True,2.832031
+idéaliste,vous-même,neutre,False,2.476379
+progessiste,vous-même,neutre,True,1.688293
+féminin,vous-même,neutre,False,2.65448
+discret,vous-même,positif,True,1.211182
+courtois,vous-même,positif,True,1.811707
+impitoyable,vous-même,negatif,False,1.699097
+indécis,vous-même,negatif,True,1.554993
+impertinent,vous-même,neutre,False,2.421265
+éduqué,vous-même,positif,True,2.587952
+distrayant,vous-même,positif,False,2.143433
+malin,vous-même,neutre,False,5.753174

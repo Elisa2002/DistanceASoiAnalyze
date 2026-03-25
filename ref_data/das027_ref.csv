@@ -1,0 +1,73 @@
+﻿Word,Avatar,Category,Answer,ReactionTime
+active,votre amie,positif,True,5.575241
+clémente,votre amie,positif,True,0.932251
+complexe,votre amie,neutre,False,0.02217102
+compétente,votre amie,positif,True,0.3554535
+calme,votre amie,neutre,True,0.1779938
+altruiste,votre amie,positif,True,1.155151
+bavarde,votre amie,neutre,True,0.4442749
+bornée,votre amie,negatif,False,0.4220123
+adroite,votre amie,positif,False,1.399918
+anxieuse,votre amie,negatif,False,0.1333313
+ennuyeuse,votre amie,negatif,False,0.4217682
+autoritaire,votre amie,neutre,False,0.8441162
+arrogante,votre amie,negatif,False,0.266571
+aimable,votre amie,positif,True,0.5107269
+compétitive,votre amie,neutre,True,0.9994812
+agressive,votre amie,negatif,False,0.4443054
+ordinaire,votre amie,neutre,False,1.599365
+coléreuse,votre amie,negatif,False,1.065948
+consciencieuse,quelqu'un d'autre,positif,False,0.5439148
+déprimée,quelqu'un d'autre,negatif,True,0.1000366
+astucieuse,quelqu'un d'autre,positif,False,0.2886047
+charmante,quelqu'un d'autre,positif,True,0.3224182
+spirituelle,quelqu'un d'autre,neutre,False,0.644104
+déplaisante,quelqu'un d'autre,negatif,True,1.577148
+cynique,quelqu'un d'autre,negatif,False,0.655426
+conciliante,quelqu'un d'autre,positif,False,0.3443909
+analytique,quelqu'un d'autre,neutre,False,0.2664795
+agréable,quelqu'un d'autre,positif,False,0.6441956
+compatissante,quelqu'un d'autre,positif,True,1.699615
+matérialiste,quelqu'un d'autre,neutre,False,0.1776428
+capricieuse,quelqu'un d'autre,negatif,False,0.3218384
+audacieuse,quelqu'un d'autre,neutre,False,0.3003235
+sérieuse,quelqu'un d'autre,neutre,True,0.5446472
+attentionnée,quelqu'un d'autre,neutre,False,0.4440918
+dépensière,quelqu'un d'autre,negatif,False,0.4434204
+désagréable,quelqu'un d'autre,negatif,True,0.06698608
+dominante,vous-même,neutre,False,0.53302
+normale,vous-même,neutre,True,0.4674683
+accomodante,vous-même,neutre,False,0.3554688
+énervante,vous-même,negatif,False,0.2887573
+chaleureuse,vous-même,positif,True,0.1999207
+morale,vous-même,neutre,True,0.289032
+capable,vous-même,positif,True,0.511261
+comblée,vous-même,positif,False,0.2441711
+cupide,vous-même,negatif,False,0.2667236
+agitée,vous-même,negatif,False,0.1334839
+autonome,vous-même,positif,True,0.2442627
+volontaire,vous-même,positif,True,0.2224121
+admirable,vous-même,positif,True,0.133606
+égoïste,vous-même,negatif,False,0.2669067
+empotée,vous-même,negatif,False,0.4663696
+convaincue,vous-même,neutre,True,0.6445313
+complexée,vous-même,negatif,False,0.355835
+conventionnelle,vous-même,neutre,False,0.2890015
+déloyale,un robot,negatif,False,1.15564
+conservatrice,un robot,neutre,False,0.1236572
+distraite,un robot,negatif,False,1.7099
+comique,un robot,positif,True,0.3546753
+émotive,un robot,neutre,False,0.1887207
+arriérée,un robot,negatif,False,0.3554077
+disgracieuse,un robot,negatif,False,0.4440918
+religieuse,un robot,neutre,False,0.5998535
+ambitieuse,un robot,positif,False,0.4120483
+solitaire,un robot,neutre,True,0.3444824
+avare,un robot,negatif,True,0.2557983
+docile,un robot,neutre,True,0.4442749
+complaisante,un robot,neutre,False,0.6774292
+cruelle,un robot,negatif,False,0.5884399
+chanceuse,un robot,positif,False,0.5996704
+brillante,un robot,positif,True,0.06658936
+confiante,un robot,positif,True,0.1889038
+appliquée,un robot,positif,True,0.2219238

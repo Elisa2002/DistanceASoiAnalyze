@@ -1,0 +1,73 @@
+﻿Word,Avatar,Category,Answer,ReactionTime
+grognonne,sophia_friend,negatif,False,1.976898
+impertinente ,sophia_friend,neutre,True,0.644577
+habile,sophia_friend,positif,True,1.166237
+efficace,sophia_friend,positif,False,0.9775467
+envieuse,sophia_friend,negatif,False,1.166924
+inamicale,sophia_friend,negatif,False,0.2557526
+objective,sophia_friend,neutre,True,4.720413
+grincheuse,sophia_friend,negatif,False,0.7884903
+obéissante,sophia_friend,neutre,False,1.176628
+immorale,sophia_friend,negatif,False,0.01103973
+opportuniste,sophia_friend,neutre,False,0.3776169
+fiable,sophia_friend,positif,True,0.08857727
+éduquée,sophia_friend,positif,True,0.5109253
+drôle,sophia_friend,positif,True,0.6771088
+futée,sophia_friend,positif,True,0.6660461
+féminine,sophia_friend,neutre,True,0.7989197
+impulsive,sophia_friend,negatif,False,0.7768707
+innocente,sophia_friend,neutre,False,0.8549347
+idéaliste,un robot,neutre,True,0.9885559
+créative,un robot,positif,False,0.9221802
+déterminée,un robot,positif,False,0.7326508
+exclusive ,un robot,neutre,False,0.6890411
+maligne,un robot,neutre,True,0.4442596
+patriotique,un robot,neutre,False,0.4105988
+exigeante,un robot,positif,True,1.365417
+fatiguante,un robot,negatif,False,0.4551239
+hospitalière,un robot,neutre,False,0.8219299
+incompétente,un robot,negatif,False,0.5664368
+frivole,un robot,neutre,False,0.6441956
+grossière,un robot,negatif,False,0.2889709
+ignorante,un robot,negatif,False,0.8888245
+inculte,un robot,negatif,True,1.243317
+franche,un robot,positif,True,0.8887939
+honnête,un robot,positif,True,0.02255249
+froide,un robot,negatif,False,0.2663574
+énergique,un robot,positif,False,0.7772217
+distrayante,quelqu'un d'autre,positif,False,0.07681274
+faible,quelqu'un d'autre,negatif,False,0.1333618
+hautaine,quelqu'un d'autre,negatif,False,0.1002197
+gentille,quelqu'un d'autre,positif,False,1.155762
+discrète,quelqu'un d'autre,positif,True,0.04440308
+impolie,quelqu'un d'autre,negatif,False,0.4326172
+digne,quelqu'un d'autre,positif,True,0.6108704
+frustrée,quelqu'un d'autre,negatif,True,0.09967041
+progressiste,quelqu'un d'autre,neutre,False,0.3439026
+masculine,quelqu'un d'autre,neutre,False,0.8770752
+fière,quelqu'un d'autre,neutre,False,0.5885315
+élégante,quelqu'un d'autre,positif,False,0.6209412
+hypocrite,quelqu'un d'autre,negatif,True,0.377655
+hésitante,quelqu'un d'autre,negatif,True,0.1100159
+humble,quelqu'un d'autre,neutre,True,0.5665588
+enfantine,quelqu'un d'autre,neutre,False,0.6546021
+généreuse,quelqu'un d'autre,positif,False,0.8106689
+imprévisible,quelqu'un d'autre,neutre,False,0.4368286
+cultivée,sophia_me,positif,True,0.7439575
+inadaptée,sophia_me,negatif,True,0.7111206
+coopérative,sophia_me,positif,True,0.699585
+simple,sophia_me,neutre,False,0.1764526
+heureuse,sophia_me,positif,False,0.5437012
+sophistiquée,sophia_me,neutre,False,0.744812
+impitoyable,sophia_me,negatif,False,0.3999634
+solennelle,sophia_me,neutre,True,0.7554932
+idiote,sophia_me,negatif,False,0.3889771
+courtoise,sophia_me,positif,True,0.1781006
+indécise,sophia_me,negatif,False,0.9099731
+fourbe,sophia_me,negatif,False,0.2998047
+distinguée,sophia_me,positif,True,0.6547241
+courageuse,sophia_me,positif,True,1.314392
+immature,sophia_me,negatif,False,0.7327271
+inoffensive,sophia_me,neutre,False,0.7659302
+extravagante,sophia_me,neutre,True,0.3770142
+hardie,sophia_me,neutre,True,1.222168

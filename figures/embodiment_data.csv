@@ -1,0 +1,121 @@
+,participant,condition,corps_virtuel,impression_etre,merged_em_score,difference_observee,pourquoi_difference,personnage_expressif,type_expression,proximite_sociale,relation_image,echelle_sociale
+0,das010,robot,3.0,5.0,8.0,Non,,1,4.0,1.0,2.0,2
+1,das010,other,3.0,5.0,8.0,Oui,"La première fois j'ai pensé qu'elle était mon amie (peut-être parce je m'attendais à la voir), en regardant bien la deuxième fois je vois que c'est une personne différente et j'ai mieux noté ses traits distinctifs.",3,3.0,4.0,3.0,4
+2,das010,friend,5.0,5.0,10.0,Non,,3,4.0,5.0,6.0,5
+3,das010,me,5.0,6.0,11.0,Non,,3,5.0,7.0,7.0,6
+4,das014,robot,5.0,5.0,10.0,Non,,1,4.0,5.0,4.0,7
+5,das014,other,4.0,1.0,5.0,Non,,2,3.0,6.0,1.0,7
+6,das014,friend,5.0,2.0,7.0,Non,,2,4.0,7.0,2.0,8
+7,das014,me,4.0,5.0,9.0,Non,,1,4.0,7.0,5.0,8
+8,das015,robot,1.0,1.0,2.0,Non,,1,2.0,2.0,1.0,9
+9,das015,other,2.0,2.0,4.0,Oui,J'ai eu l'impression qu'elle etait differente,3,3.0,3.0,2.0,7
+10,das015,friend,4.0,6.0,10.0,Non,,6,5.0,7.0,5.0,7
+11,das015,me,7.0,7.0,14.0,Non,,4,4.0,6.0,7.0,7
+12,das016,robot,7.0,7.0,14.0,Non,,4,4.0,1.0,1.0,8
+13,das016,other,6.0,6.0,12.0,Non,,7,6.0,5.0,4.0,4
+14,das016,friend,7.0,7.0,14.0,Non,,6,6.0,6.0,5.0,6
+15,das016,me,7.0,7.0,14.0,Non,,6,5.0,7.0,7.0,5
+16,das017,robot,1.0,2.0,3.0,Non,,2,4.0,4.0,3.0,7
+17,das017,other,1.0,1.0,2.0,Oui,C'était une femme vs un homme la dernière fois,3,3.0,3.0,1.0,4
+18,das017,friend,1.0,1.0,2.0,Non,,3,4.0,5.0,1.0,6
+19,das017,me,1.0,2.0,3.0,Non,,3,5.0,7.0,6.0,6
+20,das011,robot,2.0,2.0,4.0,Oui,"je me sentais un peu plus incarner dans ce corps, la deuxième fois",1,4.0,2.0,2.0,5
+21,das011,other,1.0,1.0,2.0,Oui,"Première fois je parcourai et faisait une activité en tant que quelqu'un, hors la deuxième fois je decidé de chose sans etre moi meme réellement donc, je me suis sentie moins incarné.",4,5.0,4.0,4.0,6
+22,das011,friend,2.0,2.0,4.0,Non,,4,4.0,6.0,5.0,7
+23,das011,me,4.0,5.0,9.0,Non,,4,4.0,6.0,6.0,4
+24,das018,robot,1.0,1.0,2.0,Non,,1,3.0,1.0,1.0,2
+25,das018,other,3.0,2.0,5.0,Non,,4,4.0,5.0,5.0,7
+26,das018,friend,1.0,2.0,3.0,Non,,4,4.0,1.0,1.0,5
+27,das018,me,5.0,4.0,9.0,Non,,4,4.0,7.0,7.0,8
+28,das012,robot,2.0,2.0,4.0,Non,,2,4.0,3.0,2.0,8
+29,das012,other,2.0,1.0,3.0,Non,,3,4.0,4.0,3.0,6
+30,das012,friend,1.0,1.0,2.0,Non,,7,7.0,5.0,5.0,6
+31,das012,me,4.0,6.0,10.0,Non,,3,4.0,6.0,6.0,5
+32,das013,robot,1.0,1.0,2.0,Non,,1,4.0,2.0,1.0,5
+33,das013,other,1.0,1.0,2.0,Non,,2,4.0,2.0,1.0,5
+34,das013,friend,1.0,3.0,4.0,Non,,3,4.0,2.0,1.0,5
+35,das013,me,2.0,2.0,4.0,Non,,2,4.0,7.0,7.0,2
+36,das019,robot,1.0,1.0,2.0,Non,,1,4.0,1.0,1.0,4
+37,das019,other,3.0,1.0,4.0,Non,,1,4.0,4.0,1.0,6
+38,das019,friend,1.0,1.0,2.0,Non,,3,5.0,7.0,4.0,10
+39,das019,me,3.0,2.0,5.0,Non,,3,5.0,7.0,7.0,9
+40,das020,robot,1.0,1.0,2.0,Non,,2,4.0,1.0,1.0,5
+41,das020,other,2.0,2.0,4.0,Non,,2,4.0,2.0,1.0,5
+42,das020,friend,3.0,3.0,6.0,Non,,4,4.0,5.0,5.0,6
+43,das020,me,6.0,6.0,12.0,Non,,4,4.0,6.0,7.0,7
+44,das021,robot,1.0,3.0,4.0,Non,,1,4.0,1.0,1.0,8
+45,das021,other,2.0,4.0,6.0,Non,,3,3.0,4.0,3.0,4
+46,das021,friend,2.0,4.0,6.0,Non,,3,4.0,7.0,7.0,7
+47,das021,me,4.0,5.0,9.0,Non,,3,4.0,7.0,6.0,7
+48,das022,robot,2.0,2.0,4.0,Oui,Il me paraissait plus trapu sur la deuxième visualisation et plus foncé.,1,4.0,1.0,1.0,5
+49,das022,other,3.0,3.0,6.0,Non,,3,3.0,3.0,3.0,4
+50,das022,friend,4.0,4.0,8.0,Non,,4,4.0,6.0,4.0,7
+51,das022,me,3.0,3.0,6.0,Non,,5,6.0,6.0,7.0,7
+52,das024,robot,2.0,2.0,4.0,Oui,"je me suis sentie un peu plus immergée car j'ai remarqué ""mon"" ombre, que je n'ai pas vu a la première séance",2,4.0,2.0,1.0,3
+53,das024,other,2.0,1.0,3.0,Oui,l'impression que le personnage était plus réaliste,2,4.0,3.0,1.0,5
+54,das024,friend,2.0,1.0,3.0,Non,,2,4.0,6.0,6.0,8
+55,das024,me,3.0,3.0,6.0,Oui,l'impression que le personnage était plus réaliste,4,4.0,6.0,5.0,7
+56,das025,robot,1.0,1.0,2.0,Non,,1,4.0,1.0,1.0,8
+57,das025,other,3.0,2.0,5.0,Oui,Au niveau de la coiffure. Il me semble que le personnage avait une coiffure differente,2,3.0,2.0,1.0,5
+58,das025,friend,1.0,2.0,3.0,Oui,Au niveau de l'expression du visage et de la coiffure. Le personnage était déformé.,3,4.0,7.0,7.0,6
+59,das025,me,4.0,4.0,8.0,Non,,3,4.0,7.0,4.0,6
+60,das026,robot,1.0,1.0,2.0,Oui,"Le premier robot avait l'air d'avoir une autre couleur, plus bleu clair.",1,4.0,1.0,1.0,5
+61,das026,other,1.0,2.0,3.0,Non,,4,5.0,7.0,6.0,9
+62,das026,friend,1.0,1.0,2.0,Non,,2,3.0,1.0,1.0,5
+63,das026,me,3.0,3.0,6.0,Non,,5,6.0,7.0,7.0,9
+64,das027,robot,1.0,2.0,3.0,Non,,1,4.0,2.0,2.0,4
+65,das027,other,3.0,3.0,6.0,Non,,2,2.0,1.0,1.0,5
+66,das027,friend,4.0,4.0,8.0,Non,,5,7.0,7.0,6.0,5
+67,das027,me,3.0,6.0,9.0,Non,,2,4.0,7.0,7.0,5
+68,das028,robot,1.0,1.0,2.0,Non,,1,2.0,1.0,1.0,7
+69,das028,other,3.0,2.0,5.0,Non,,2,4.0,6.0,1.0,7
+70,das028,friend,1.0,1.0,2.0,Non,,1,4.0,7.0,3.0,6
+71,das028,me,5.0,4.0,9.0,Non,,1,4.0,7.0,7.0,6
+72,das029,robot,1.0,1.0,2.0,Non,,1,1.0,1.0,1.0,5
+73,das029,other,3.0,3.0,6.0,Non,,2,4.0,5.0,5.0,5
+74,das029,friend,3.0,3.0,6.0,Non,,4,4.0,6.0,5.0,5
+75,das029,me,5.0,6.0,11.0,Non,,4,4.0,6.0,7.0,6
+76,das032,robot,4.0,4.0,8.0,Non,,4,4.0,5.0,1.0,3
+77,das032,other,1.0,1.0,2.0,Non,,5,3.0,3.0,2.0,7
+78,das032,friend,4.0,2.0,6.0,Non,,4,4.0,6.0,4.0,8
+79,das032,me,2.0,4.0,6.0,Non,,4,4.0,4.0,3.0,8
+80,das001,robot,1.0,1.0,2.0,Non,,1,2.0,1.0,1.0,2
+81,das001,other,2.0,2.0,4.0,Non,,3,4.0,2.0,3.0,5
+82,das001,friend,3.0,3.0,6.0,Non,,4,4.0,4.0,4.0,6
+83,das001,me,5.0,4.0,9.0,Non,,4,4.0,4.0,5.0,6
+84,das002,robot,1.0,2.0,3.0,Non,,1,3.0,3.0,2.0,10
+85,das002,other,2.0,2.0,4.0,Non,,3,3.0,2.0,1.0,6
+86,das002,friend,3.0,3.0,6.0,Non,,4,5.0,5.0,4.0,9
+87,das002,me,3.0,5.0,8.0,Non,,5,3.0,7.0,6.0,8
+88,das003,robot,1.0,2.0,3.0,Non,,1,3.0,3.0,2.0,10
+89,das003,other,2.0,2.0,4.0,Non,,3,3.0,2.0,1.0,6
+90,das003,friend,3.0,3.0,6.0,Non,,4,5.0,5.0,4.0,9
+91,das003,me,3.0,4.0,7.0,Non,,5,3.0,7.0,6.0,8
+92,das004,robot,1.0,1.0,2.0,Non,,1,4.0,1.0,1.0,5
+93,das004,other,5.0,4.0,9.0,Non,,4,5.0,4.0,3.0,6
+94,das004,friend,6.0,6.0,12.0,Non,,6,6.0,7.0,7.0,8
+95,das004,me,7.0,7.0,14.0,Non,,6,6.0,7.0,7.0,8
+96,das005,robot,4.0,5.0,9.0,Non,,6,4.0,5.0,4.0,5
+97,das005,other,2.0,2.0,4.0,Non,,5,2.0,6.0,1.0,7
+98,das005,friend,4.0,5.0,9.0,Non,,7,7.0,6.0,3.0,7
+99,das005,me,6.0,6.0,12.0,Non,,6,6.0,7.0,7.0,7
+100,das006,robot,5.0,5.0,10.0,Oui,J'ai eu l'opportunité de m'attarder davantage sur des détails que je n'avais pas perçu au moment de la balade,3,4.0,3.0,2.0,5
+101,das006,other,3.0,6.0,9.0,Non,,3,4.0,5.0,4.0,6
+102,das006,friend,3.0,4.0,7.0,Non,,2,4.0,4.0,3.0,7
+103,das006,me,6.0,6.0,12.0,Non,,3,2.0,6.0,5.0,6
+104,das007,robot,1.0,1.0,2.0,Oui,"J'avais plutôt l'impression de voir un personnage de film, et là j'étais presque content de le retrouver disons, mais très dissocié de moi-même",1,4.0,1.0,1.0,3
+105,das007,other,2.0,1.0,3.0,Oui,Oui car le personnage inconnu que j'avais observé n'était pas une femme blanche mais un homme noir,1,4.0,2.0,2.0,3
+106,das007,friend,4.0,3.0,7.0,Oui,"Une forme de sympathie encore une fois du fait de revoir ce personnage auquel je ne croyais pas tant la dernière fois mais comme un personnage qu'on vient retrouver dans un jeu vidéo. Pour autant je ne vois pas mon ami dans ce personnage mes réponses aux adjectifs sont bien celle que j'associais à ce personnage (postures, vêtements sales etc.)",2,4.0,3.0,4.0,3
+107,das007,me,2.0,2.0,4.0,Oui,"J'avais l'impression que ce double faisait encore plus peur que dans mes souvenirs. Je percevais donc cet avatar comme un double inquiétant disons, et que l'avatar de mon ami était son ami, grande précarité aussi mais son avatar était gentil, le mien (crane rasé, visage d'ombre alors que pas de cheveux) paraissait menaçant",4,1.0,2.0,2.0,3
+108,das008,robot,4.0,5.0,9.0,Non,,1,2.0,1.0,1.0,3
+109,das008,other,4.0,4.0,8.0,Non,,5,4.0,4.0,3.0,7
+110,das008,friend,5.0,5.0,10.0,Non,,5,6.0,5.0,7.0,7
+111,das008,me,7.0,7.0,14.0,Non,,5,5.0,7.0,7.0,6
+112,das034,robot,3.0,1.0,4.0,Non,,1,4.0,1.0,1.0,10
+113,das034,other,4.0,4.0,8.0,Non,,2,4.0,3.0,2.0,6
+114,das034,friend,5.0,5.0,10.0,Non,,5,5.0,6.0,4.0,9
+115,das034,me,6.0,6.0,12.0,Non,,5,5.0,7.0,7.0,8
+116,das033,robot,1.0,1.0,2.0,Oui,"Je me suis moins senti comme le robot, je le voyais comme une troisème personne.",2,4.0,3.0,1.0,3
+117,das033,other,2.0,2.0,4.0,Oui,"Je ne me sentais pas être la personne, mais être une troisième personne, quelqu'un d'autre qui jugeait... Je me sentais de devoir décrire avec des adjectifs une personne que je ne connaissais pas.",3,5.0,2.0,2.0,6
+118,das033,friend,1.0,1.0,2.0,Non,,5,6.0,7.0,5.0,4
+119,das033,me,7.0,7.0,14.0,Non,,6,5.0,7.0,7.0,8

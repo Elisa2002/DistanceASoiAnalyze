@@ -1,0 +1,73 @@
+﻿Word,Avatar,Category,Answer,ReactionTime
+audacieux,un robot,neutre,True,9.018723
+chaleureux,un robot,positif,False,1.244202
+attentionné,un robot,neutre,False,1.066956
+distrait,un robot,negatif,True,0.8666229
+aimable,un robot,positif,False,0.9441681
+astucieux,un robot,positif,False,8.162735
+complaisant,un robot,neutre,False,1.133698
+arrogant,un robot,negatif,False,0.4441833
+disgracieux,un robot,negatif,False,0.4106979
+énervant,un robot,negatif,True,1.231995
+adroit,un robot,positif,True,0.9211426
+brillant,un robot,positif,True,0.3009186
+complexe,un robot,neutre,True,0.5342865
+solitaire,un robot,neutre,True,0.4437561
+admirable,un robot,positif,True,0.388855
+cynique,un robot,negatif,False,1.11058
+complexé,un robot,negatif,False,0.8550415
+dominant,un robot,neutre,True,1.089066
+dépensier,moi-même,negatif,True,1.11055
+clément,moi-même,positif,False,0.733551
+convaincu,moi-même,neutre,False,0.2546234
+arriéré,moi-même,negatif,False,1.067108
+conciliant,moi-même,positif,True,0.7140045
+conservateur,moi-même,neutre,False,0.6327057
+conventionnel,moi-même,neutre,False,0.5223083
+religieux,moi-même,neutre,False,0.5809631
+capricieux,moi-même,negatif,True,0.7428894
+sérieux,moi-même,neutre,True,0.7555847
+analytique,moi-même,neutre,True,1.171265
+comblé,moi-même,positif,True,0.8226318
+désagréable,moi-même,negatif,False,1.231995
+égoïste,moi-même,negatif,False,0.7240906
+chanceux,moi-même,positif,True,0.5431519
+comique,moi-même,positif,True,0.8330688
+déloyal,moi-même,negatif,False,0.6226807
+appliqué,moi-même,positif,False,0.5210571
+compétent,mon ami,positif,True,0.3789978
+déplaisant,mon ami,negatif,False,0.6884155
+calme,mon ami,neutre,True,0.3999023
+docile,mon ami,neutre,False,0.9439392
+émotif,mon ami,neutre,True,0.5043945
+spirituel,mon ami,neutre,True,0.777771
+moral,mon ami,neutre,True,0.3894653
+volontaire,mon ami,positif,True,0.3885803
+altruiste,mon ami,positif,False,1.321472
+anxieux,mon ami,negatif,True,2.520905
+empoté,mon ami,negatif,False,0.3885193
+coléreux,mon ami,negatif,False,0.2446594
+capable,mon ami,positif,True,0.2658691
+actif,mon ami,positif,True,0.5220032
+ordinaire,mon ami,neutre,False,0.3330078
+borné,mon ami,negatif,False,0.4774475
+agréable,mon ami,positif,True,0.4665222
+déprimé,mon ami,negatif,False,0.3221741
+normal,quelqu'un d'autre,neutre,True,0.3557739
+agité,quelqu'un d'autre,negatif,False,0.8776855
+cupide,quelqu'un d'autre,negatif,False,0.4329224
+autoritaire,quelqu'un d'autre,neutre,True,0.6885376
+compatissant,quelqu'un d'autre,positif,False,0.3778076
+confiant,quelqu'un d'autre,positif,True,0.2670288
+cruel,quelqu'un d'autre,negatif,False,0.277832
+ennuyeux,quelqu'un d'autre,negatif,False,0.366333
+charmant,quelqu'un d'autre,positif,False,0.3883057
+bavard,quelqu'un d'autre,neutre,False,0.3665161
+matérialiste,quelqu'un d'autre,neutre,True,1.544678
+autonome,quelqu'un d'autre,positif,True,0.7891235
+compétitif,quelqu'un d'autre,neutre,True,0.2997437
+ambitieux,quelqu'un d'autre,positif,True,0.2554321
+consciencieux,quelqu'un d'autre,positif,False,0.6660767
+accommodant,quelqu'un d'autre,neutre,False,0.3543701
+agressif,quelqu'un d'autre,negatif,False,0.7883911
+avare,quelqu'un d'autre,negatif,False,0.5559082

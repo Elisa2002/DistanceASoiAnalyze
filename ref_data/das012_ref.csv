@@ -1,0 +1,73 @@
+﻿Word,Avatar,Category,Answer,ReactionTime
+enfantin,quelqu'un d'autre,neutre,False,0.5997238
+éduqué,quelqu'un d'autre,positif,True,4.676102
+objectif,quelqu'un d'autre,neutre,True,0.799118
+gentil,quelqu'un d'autre,positif,True,0.5993042
+digne,quelqu'un d'autre,positif,True,0.6779327
+froid,quelqu'un d'autre,negatif,True,0.7331543
+grognon,quelqu'un d'autre,negatif,False,0.6551361
+hospitalier,quelqu'un d'autre,neutre,False,0.6330566
+innocent,quelqu'un d'autre,neutre,False,0.5774994
+simple,quelqu'un d'autre,neutre,True,0.5553894
+hésitant,quelqu'un d'autre,negatif,False,0.4664307
+incompétent,quelqu'un d'autre,negatif,False,0.8108368
+envieux ,quelqu'un d'autre,negatif,False,0.5662842
+opportuniste,quelqu'un d'autre,neutre,False,0.6668701
+distrayant,quelqu'un d'autre,positif,False,0.9551239
+honnête ,quelqu'un d'autre,positif,True,0.7107697
+grincheux,quelqu'un d'autre,negatif,False,0.6664276
+courtois,quelqu'un d'autre,positif,True,0.566452
+sophistiqué,vous-même,neutre,True,0.7436829
+imprévisible,vous-même,neutre,False,0.710968
+heureux,vous-même,positif,True,0.6552124
+énergique,vous-même,positif,True,0.6552124
+inamical,vous-même,negatif,False,1.055054
+exigeant,vous-même,positif,False,0.5992432
+élégant,vous-même,positif,True,0.6441956
+coopératif,vous-même,positif,False,0.755249
+fiable,vous-même,positif,False,0.2889099
+féminin,vous-même,neutre,False,0.5663452
+frivole,vous-même,neutre,True,1.021484
+immoral,vous-même,negatif,True,0.6109924
+hypocrite,vous-même,negatif,False,0.5993347
+faible,vous-même,negatif,False,0.7107239
+patriotique,vous-même,neutre,False,0.5219116
+extravagant,vous-même,neutre,False,0.5887146
+hautain,vous-même,negatif,False,0.433075
+indécis,vous-même,negatif,False,0.4886475
+masculin,un robot,neutre,True,0.7438965
+inculte,un robot,negatif,False,0.6107788
+franc,un robot,positif,True,0.6878357
+discret,un robot,positif,True,0.7332153
+déterminé,un robot,positif,False,0.5428772
+malin,un robot,neutre,False,0.6219482
+futé,un robot,positif,True,0.4221497
+distingué,un robot,positif,True,0.3778381
+drôle,un robot,positif,False,0.6219177
+frustré,un robot,negatif,False,0.6569519
+solennel,un robot,neutre,False,0.644104
+humble,un robot,neutre,True,0.5552979
+inadapté,un robot,negatif,False,0.3332214
+exclusif,un robot,neutre,True,0.6553345
+hardi,un robot,neutre,False,0.6211548
+fourbe,un robot,negatif,False,0.3441772
+fatiguant,un robot,negatif,False,0.532959
+impulsif,un robot,negatif,True,0.6217651
+idéaliste,votre ami,neutre,True,0.6546021
+créatif,votre ami,positif,True,0.5213623
+généreux,votre ami,positif,True,0.7437134
+impitoyable,votre ami,negatif,False,0.6109009
+grossier,votre ami,negatif,False,0.656189
+efficace,votre ami,positif,True,0.3552246
+fier,votre ami,neutre,True,0.3651733
+courageux,votre ami,positif,False,0.3555908
+cultivé,votre ami,positif,True,0.5883179
+impertinent,votre ami,neutre,False,0.5111694
+progessiste,votre ami,neutre,True,0.611145
+impoli,votre ami,negatif,False,0.6888428
+inoffensif,votre ami,neutre,True,0.7218018
+ignorant,votre ami,negatif,False,0.4885254
+idiot,votre ami,negatif,False,0.5666504
+obéissant,votre ami,neutre,True,0.5767822
+habile,votre ami,positif,False,0.7438965
+immature,votre ami,negatif,False,0.6882935

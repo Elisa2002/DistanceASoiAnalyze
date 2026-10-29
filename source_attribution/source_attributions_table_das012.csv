@@ -1,0 +1,5 @@
+,from_me,from_friend,from_other,from_robot
+to_me,0,3,3,1
+to_friend,1,0,3,3
+to_other,3,2,0,4
+to_robot,4,2,0,0

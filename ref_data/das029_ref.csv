@@ -1,0 +1,73 @@
+﻿Word,Avatar,Category,Answer,ReactionTime
+franche,un robot,positif,True,4.309624
+patriotique,un robot,neutre,True,0.1110992
+hardie,un robot,neutre,False,2.576645
+impulsive,un robot,negatif,True,0.1998749
+courtoise,un robot,positif,False,0.9103699
+grognonne,un robot,negatif,False,1.333305
+fière,un robot,neutre,True,0.82164
+immature,un robot,negatif,False,0.2675095
+extravagante,un robot,neutre,False,0.1330795
+inadaptée,un robot,negatif,False,0.3110428
+habile,un robot,positif,True,0.1889496
+déterminée,un robot,positif,True,0.1556549
+idéaliste,un robot,neutre,True,0.7005157
+idiote,un robot,negatif,False,0.4001312
+honnête,un robot,positif,False,0.4449615
+frustrée,un robot,negatif,False,0.6106415
+objective,un robot,neutre,False,1.043869
+exigeante,un robot,positif,True,0.4210205
+impolie,vous-même,negatif,False,0.5768433
+généreuse,vous-même,positif,True,0.2778168
+grossière,vous-même,negatif,False,0.6328583
+fatiguante,vous-même,negatif,False,0
+faible,vous-même,negatif,False,0.5773621
+futée,vous-même,positif,True,0.344635
+efficace,vous-même,positif,False,0.4447327
+sophistiquée,vous-même,neutre,False,0.388855
+humble,vous-même,neutre,True,0.3995056
+exclusive,vous-même,neutre,True,2.088013
+gentille,vous-même,positif,True,0.4430542
+discrète,vous-même,positif,False,0.4779358
+distinguée,vous-même,positif,True,0.4108582
+progressiste,vous-même,neutre,True,1.866455
+simple,vous-même,neutre,False,1.155731
+indécise,vous-même,negatif,True,0.7003479
+enfantine,vous-même,neutre,True,0.9985352
+inamicale,vous-même,negatif,False,0.632843
+imprévisible,votre amie,neutre,False,1.110443
+fiable,votre amie,positif,True,0.2996521
+coopérative,votre amie,positif,True,0.3218689
+frivole,votre amie,neutre,True,0.2996216
+hospitalière,votre amie,neutre,True,0.2999573
+maligne,votre amie,neutre,False,1.721344
+cultivée,votre amie,positif,True,0.289093
+inculte,votre amie,negatif,False,0.3328552
+impitoyable,votre amie,negatif,False,1.06604
+heureuse,votre amie,positif,False,0.7884521
+immorale,votre amie,negatif,False,0.3109131
+ignorante,votre amie,negatif,False,0.2666016
+distrayante,votre amie,positif,False,0.2667236
+envieuse,votre amie,negatif,True,1.054962
+inoffensive,votre amie,neutre,True,0.8665771
+hypocrite,votre amie,negatif,False,0.2666016
+masculine,votre amie,neutre,False,0.5332642
+drôle,votre amie,positif,False,0.7442322
+incompétente,quelqu'un d'autre,negatif,False,0.4554443
+féminine,quelqu'un d'autre,neutre,True,1.28833
+froide,quelqu'un d'autre,negatif,False,0.3212891
+grincheuse,quelqu'un d'autre,negatif,False,0.6542358
+digne,quelqu'un d'autre,positif,True,0.4215088
+impertinente ,quelqu'un d'autre,neutre,False,0.2888794
+élégante,quelqu'un d'autre,positif,True,0.3001099
+solennelle,quelqu'un d'autre,neutre,True,0.4558716
+opportuniste,quelqu'un d'autre,neutre,False,0.3554688
+hésitante,quelqu'un d'autre,negatif,False,0.4664307
+innocente,quelqu'un d'autre,neutre,False,1.121521
+fourbe,quelqu'un d'autre,negatif,False,0.3109131
+obéissante,quelqu'un d'autre,neutre,False,0.2438965
+éduquée,quelqu'un d'autre,positif,True,0.3436279
+créative,quelqu'un d'autre,positif,True,0.2883301
+courageuse,quelqu'un d'autre,positif,True,0.4328003
+hautaine,quelqu'un d'autre,negatif,False,0.3779297
+énergique,quelqu'un d'autre,positif,False,0.4331665

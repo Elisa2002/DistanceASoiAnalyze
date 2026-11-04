@@ -16,7 +16,7 @@ library(brms)
 #group by participant for per participant average - shapiro and outliers
 
 #read data fill
-anova_format_data_all <- read.csv(file="~/Documents/cog_sup/M2 Internship/data_analysis/figures/anova_data_format_2.csv",head=TRUE,sep=",")
+anova_format_data_all <- read.csv(file="~/Documents/cog_sup/M2_Internship/data_analysis/figures/anova_data_format_2.csv",head=TRUE,sep=",")
 anova_format_data_all
 #----------------------------------------------------------------
 #REMOVE all condition

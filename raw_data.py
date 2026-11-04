@@ -1,13 +1,13 @@
 import glob
 import pandas as pd
-from functions_for_sre_analysis import count_items_per_avatar
+from functions_for_sre_analysis import count_items_per_avatar, valence_separation
 
 AVATARS = ['vous', 'ami', 'autrui', 'robot']
 
 # store participant-level data
 participants_data = []
 
-for file in glob.glob("M2 Internship/data_analysis/mergeddata/*"):
+for file in glob.glob("M2_Internship/data_analysis/mergeddata/*"):
 
     participant_id = file[-10:-4]
     print(participant_id)
@@ -70,6 +70,7 @@ for file in glob.glob("M2 Internship/data_analysis/mergeddata/*"):
 results_df = pd.DataFrame(participants_data)
 
 print(results_df)
+results_df.to_csv("M2_Internship/data_analysis/table_of_raw.csv")
 
 # Example averages
 mean_scores = results_df.mean(numeric_only=True)

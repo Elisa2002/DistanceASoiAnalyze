@@ -16,7 +16,7 @@ library(brms)
 #group by participant for per participant average - shapiro and outliers
 
 #read data fill
-anova_format_data_all <- read.csv(file="~/Documents/cog_sup/M2_Internship/data_analysis/figures/anova_data_format_2.csv",head=TRUE,sep=",")
+anova_format_data_all <- read.csv(file="./figures/anova_data_format_2.csv",head=TRUE,sep=",")
 anova_format_data_all
 #----------------------------------------------------------------
 #REMOVE all condition
@@ -27,11 +27,13 @@ anova_format_data
 anova_just_all <- anova_format_data_all[anova_format_data_all$valence == "all",]
 anova_just_all
 
-q_data <- read.csv(file="~/Documents/cog_sup/M2_Internship/data_analysis/questionnaire_data.csv", head=TRUE, sep=";")
+q_data <- read.csv(file="./questionnaire_data.csv", head=TRUE, sep=";")
 colnames(q_data) <- q_data[1,] #setting col names to row 1 contents
 q_data <- q_data[-1,] #removing row 1 which is now duplicated with the col names
 row.names(q_data) <- NULL #reset index
 q_data[, -1] <- lapply(q_data[, -1], as.numeric) #data was considered string so now is considered numeric apart from participant number
+q_data <- rename(q_data, "participant" = Participants)
+
 q_data
 
 #--------------------------------------------------------------------------------
@@ -55,3 +57,10 @@ bxp
 
 #-------------------------------------------------------------------------------
 #Prep for stats comparing the questionnaire variables to the memory tests and embodiment
+#merge two data frames w q data second 
+merged_df <- merge(anova_format_data, q_data, "participant")
+#remove X col that appears after merge 
+merged_df <- merged_df %>%
+  subset(select = -X)
+
+#

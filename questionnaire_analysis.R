@@ -63,4 +63,17 @@ merged_df <- merge(anova_format_data, q_data, "participant")
 merged_df <- merged_df %>%
   subset(select = -X)
 
-#
+#covariation
+#scatterplot code for corrected hits per avatar against any chosen questionnaire variable
+ggscatter(
+  group_by(merged_df, condition), x = "TSCS_Total", y = "corrected.hits", color = "condition", palette = "jco",
+  add = "reg.line"
+) +
+  stat_regline_equation(aes(label = after_stat(rr.label), color = condition))
+
+#do we need to add some assumption checks here
+
+#ancova regression model with one of the questionnaires and condition taken into account in the model as to their effect on memory
+#including any of the questionnaires does not seem to make the effect of condition on hits non significant 
+Model5 <- lm(corrected.hits ~ condition + valence + STAI_A_Phase_2, data = merged_df)
+summary(Model5)

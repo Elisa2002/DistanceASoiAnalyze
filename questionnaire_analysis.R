@@ -72,15 +72,20 @@ merged_df <- merged_df %>%
 
 #covariation
 #scatterplot code for corrected hits per avatar against any chosen questionnaire variable
+
+me_data = merged_df[merged_df$condition== 'me',]#selecting data for me condition for visualisation purposes 
+
 ggscatter(
-  group_by(merged_df, condition), x = "TSCS_Total", y = "corrected.hits", color = "condition", palette = "jco",
+  data = merged_df, x = "TSCS_Total", y = "corrected.hits", color = "condition", palette = "jco",
   add = "reg.line"
-) +
+)+
+  geom_jitter(aes(color = condition), position = position_jitter(width = .1))+
   stat_regline_equation(aes(label = after_stat(rr.label), color = condition))
+                        
 
 #do we need to add some assumption checks here
 
 #ancova regression model with one of the questionnaires and condition taken into account in the model as to their effect on memory
 #including any of the questionnaires does not seem to make the effect of condition on hits non significant 
-Model5 <- lm(corrected.hits ~ condition + valence + STAI_A_Phase_2, data = merged_df)
+Model5 <- lm(corrected.hits ~ condition + valence + CSQ_VR_Phase_2, data = merged_df)
 summary(Model5)

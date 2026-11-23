@@ -43,11 +43,18 @@ summary_stat_df <- data.frame()
 
 #---------------------------------------------------------------------------------
 #visualize box plots for the variables of interest 
-
 #table with full summary stats for variable I think are relevant for phase 2 results
 summary_stats_table <- q_data %>%
   get_summary_stats(`MMSQ`, `CSQ_VR_Phase_2`, STAI_B, `STAI_A_Phase_2`, Isaac, Corsi, VVIQ, TSCS_Total,  type = "full")
 summary_stats_table
+
+summary_stats_table <- flextable(summary_stats_table)%>%
+  #merge_v(j = "condition") %>%   # merge identical condition cells vertically
+  #valign(j = "condition", valign = "top") %>%  # optional: align nicely
+  theme_booktabs()
+summary_stats_table <- set_caption(summary_stats_table, "Summary Statistics")
+summary_stats_table
+
 
 #boxplot creation template to visualise any
 bxp <- ggboxplot(

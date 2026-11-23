@@ -636,10 +636,14 @@ ggplot(anova_format_data,  aes(x = factor(valence, valence_order),
                                fill = factor(valence, valence_order))) +
   geom_boxplot(outlier.shape = NA)+
   
+  stat_compare_means(comparisons = comparison_val, 
+                     label = "p.signif",
+                     label.y = c(1.2, 1.2, 1)) +
+  
   theme_minimal() +
   labs(title="Average Source Hit Rate per Adjective Valence", 
        x="Adjective Valence at Encoding", y = "Mean Source Hit Rate")+ 
-  ylim(0, 1)+
+  ylim(0, 1.3)+
   scale_fill_brewer(palette = "Paired")+
   theme(legend.position = "none")
 
@@ -663,7 +667,7 @@ ggplot(anova_format_data, aes(x = factor(condition, avatars), y = source.errors.
   ylim(0, 1)
 
 my_comparisons_fixed <- list(c("me", "friend"), c("me", "other"), c("friend", "other"), c("friend", "robot"), c("other", "robot"))
-ggplot(anova_just_all,  aes(x = factor(condition, avatars), 
+ggplot(anova_format_data,  aes(x = factor(condition, avatars), 
                                y = source.errors.to.avatars,
                                fill = factor(condition, avatars))) +
   geom_boxplot(outlier.shape = NA)+
@@ -684,7 +688,7 @@ ggplot(anova_just_all,  aes(x = factor(condition, avatars),
   theme_minimal() +
   labs(title="Average Proportion of Source Errors Towards Each Avatar", 
        x="Avatar Recalled", y = "Mean Source Error Rate")+ 
-  ylim(0, 0.5)+
+  ylim(0, 0.3)+
   scale_fill_brewer(palette = "Set2")+
   theme(legend.position = "none")
 

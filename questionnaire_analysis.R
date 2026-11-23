@@ -9,6 +9,7 @@ library(lme4)
 library(lmerTest)
 library(mediation)
 library(brms)
+library(car)
 
 
 #data has valence in 4 lvls with 'all' added, need to remove 
@@ -83,9 +84,18 @@ ggscatter(
   stat_regline_equation(aes(label = after_stat(rr.label), color = condition))
                         
 
-#do we need to add some assumption checks here
+#ASSUMPTIONS
+#independence of variables 
+anova_model <- aov(CSQ_VR_Phase_2 ~ condition + valence, data = merged_df)
+summary(anova_model)
 
+#Levene test for homogeneity of variance
+leveneTest(corrected.hits~condition, data = merged_df)
 #ancova regression model with one of the questionnaires and condition taken into account in the model as to their effect on memory
 #including any of the questionnaires does not seem to make the effect of condition on hits non significant 
 Model5 <- lm(corrected.hits ~ condition + valence + CSQ_VR_Phase_2, data = merged_df)
 summary(Model5)
+
+#OTHER WAY TO DO ANCOVA
+ancova_model <- aov(corrected.hits ~ condition + valence + CSQ_VR_Phase_2, data = merged_df)
+Anova(ancova_model, type="III")

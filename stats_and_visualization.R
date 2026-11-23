@@ -16,7 +16,7 @@ library(brms)
 #group by participant for per participant average - shapiro and outliers
 
 #read data fill
-anova_format_data_all <- read.csv(file="~/Documents/cog_sup/M2_Internship/data_analysis/figures/anova_data_format_2.csv",head=TRUE,sep=",")
+anova_format_data_all <- read.csv(file="./figures/anova_data_format_2.csv",head=TRUE,sep=",")
 anova_format_data_all
 #----------------------------------------------------------------
 #REMOVE all condition
@@ -241,6 +241,8 @@ apa_posthoc <- function(data, formula_text, caption_text){
   
 }
 
+#ANOVAS-----------------------------------------------------------
+
 #valence x condition on item HITS CORRECTED
 res.aov_hits <- anova_test(
   data = anova_format_data,
@@ -289,6 +291,7 @@ apa_anova(
   "Two-Way Repeated-Measures ANOVA: Source Hits"
 )
 
+#source hits calculated over number of hits 
 res.aov_source_o <- anova_test(
   data = anova_format_data,
   dv = o.source.hits,

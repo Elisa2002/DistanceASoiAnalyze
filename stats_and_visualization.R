@@ -278,6 +278,7 @@ res.aov_hits_uncorrected <- anova_test(
 get_anova_table(res.aov_hits_uncorrected)
 
 #SOURCE HITS
+#sh calculated over number of items (18)
 res.aov_source <- anova_test(
   data = anova_format_data,
   dv = source.hits,
@@ -404,6 +405,7 @@ apa_anova(
   res.aov_adj_num,
   "Two-Way Repeated-Measures ANOVA: Number of Adjectives Attributed to Avatars"
 )
+
 #POST HOC - main effect
 # main effect valence
 apa_posthoc(
@@ -514,6 +516,11 @@ apa_posthoc(
   relation_image ~ condition,
   "Pairwise Comparisons for Main Effect of Condition on Percieved Distance to Self"
 )
+
+#EMBODIMENT PER CONDITION EFFECT ON CORRECTED HITS
+
+
+#PLOTS--------------------------------------------------------------------------------------------------------
 
 my_comparisons <- list(c("me", "friend"), c("me", "other"), c("me", "robot"), c("friend", "other"), c("friend", "robot"), c("other", "robot"))
 avatars <- c("me", "friend", "other", "robot")
@@ -781,7 +788,7 @@ mod_a <- lmer(merged_em_score ~ cond_me + cond_other + cond_robot + (1 | partici
 summary(mod_a)
 
 # CHEMIN B + effet direct : merged_em_score + condition → corrected.hits
-#does condition still affect hits after emodiment is taken into account 
+#does condition still affect hits after embodiment is taken into account 
 # ============================================================
 mod_b <- lmer(corrected.hits ~ merged_em_score + cond_me + cond_other + cond_robot + (1 | participant),
               data = anova_just_all, REML = FALSE)
